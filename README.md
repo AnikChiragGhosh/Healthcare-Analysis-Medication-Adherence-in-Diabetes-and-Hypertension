@@ -1,4 +1,4 @@
-# Healthcare-Analysis-Medication-Adherence-in-Diabetes-and-Hypertension
+# Healthcare Analysis Medication Adherence in Diabetes and Hypertension
 This project focuses on analyzing medication adherence among patients diagnosed with Diabetes and Hypertension using a real-world dataset. The goal is to understand the key drivers of adherence behavior and build predictive models to identify high-risk non-adherent patients.
 
 ## 🧠 Objectives
