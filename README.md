@@ -44,7 +44,7 @@ Presence of Complications and Comorbidities
 
                                   Model	Accuracy	                      ROC-AUC
     Logistic Regression	     (0.5722391364517022)	               (0.5529549042542312)
-    Random Forest	           (0.808746194298367)	              (0.8935628866901877)
+    Random Forest	         (0.808746194298367)	               (0.8935628866901877)
 
 
 
