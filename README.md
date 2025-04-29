@@ -13,7 +13,7 @@ This project focuses on analyzing medication adherence among patients diagnosed 
 ## 🛠️ Dataset Summary
 
 Dataset Source: Mendeley Data — Diabetes and Hypertension Medication Adherence Dataset
-###Key Features:
+### Key Features:
 Demographics: Age, Gender
 Clinical: Diagnosis, Complications, Comorbidities
 Financial: Annual Claim Amount, Annual Contribution
