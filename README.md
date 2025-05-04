@@ -47,7 +47,12 @@ Presence of Complications and Comorbidities
     Random Forest	         (0.808746194298367)	               (0.8935628866901877)
 
 ## Adherence Prediction Dashboard
-https://media-hosting.imagekit.io/e741fd4b867c4904/Screenshot%20(19).png?Expires=1840997629&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=O8QT9gbN9qPvS4b~S1uxnldaNn8Jf0MDSuRRHJkJRHy~-rJj6-tb8s9saI~XUl3b5yP3m0vCMd4NrQOSdhjfpkSW0v5ihxFEdHlNHAxhsmqgmE1GlkPEhFM-60Nqa0pc7O6WLuOk1U83Ix8UzSOBFy1yIz7EVEQZg3AThyd8KA8PX~wSwkfACCY41fR-gowFIbFhxsohFdDEhi4oGtFO1SeFFwvHL72L5IaeX7j~LkVfWTUVI5ZAA3f4G7pseTpquaFmj~9g9yanmsLGekNjh~MyKnCEVx2zeGRvvKt8Y5LDfUlowwMw-nv-DXGk9ur2-yIoAhCDRW5T8NIu04y8JA__
+![Image](https://github.com/user-attachments/assets/ec2316e8-6107-40eb-a112-11ed514f1f5c)
+## 📈 Key Insights
+Higher non-adherence seen in age groups 40–60
+UNITSTOTAL and ANNUALCLAIMAMOUNT are major predictors
+Model can distinguish adherence behavior with ~89% AUC
+Risk levels show a strong correlation with predicted adherence
 
 
 
