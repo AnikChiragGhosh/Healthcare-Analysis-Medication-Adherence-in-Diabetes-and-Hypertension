@@ -46,6 +46,12 @@ Presence of Complications and Comorbidities
     Logistic Regression	     (0.5722391364517022)	               (0.5529549042542312)
     Random Forest	         (0.808746194298367)	               (0.8935628866901877)
 
+## Adherence Prediction Dashboard
+https://media-hosting.imagekit.io/e741fd4b867c4904/Screenshot%20(19).png?Expires=1840997629&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=O8QT9gbN9qPvS4b~S1uxnldaNn8Jf0MDSuRRHJkJRHy~-rJj6-tb8s9saI~XUl3b5yP3m0vCMd4NrQOSdhjfpkSW0v5ihxFEdHlNHAxhsmqgmE1GlkPEhFM-60Nqa0pc7O6WLuOk1U83Ix8UzSOBFy1yIz7EVEQZg3AThyd8KA8PX~wSwkfACCY41fR-gowFIbFhxsohFdDEhi4oGtFO1SeFFwvHL72L5IaeX7j~LkVfWTUVI5ZAA3f4G7pseTpquaFmj~9g9yanmsLGekNjh~MyKnCEVx2zeGRvvKt8Y5LDfUlowwMw-nv-DXGk9ur2-yIoAhCDRW5T8NIu04y8JA__
+
+
+
+
 
 
 
