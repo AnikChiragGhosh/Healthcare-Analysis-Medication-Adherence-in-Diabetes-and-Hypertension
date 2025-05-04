@@ -49,10 +49,10 @@ Presence of Complications and Comorbidities
 ## Adherence Prediction Dashboard
 ![Image](https://github.com/user-attachments/assets/ec2316e8-6107-40eb-a112-11ed514f1f5c)
 ## 📈 Key Insights
- Higher non-adherence seen in age groups 40–60.
- UNITSTOTAL and ANNUALCLAIMAMOUNT are major predictors.
- Model can distinguish adherence behavior with ~89% AUC.
- Risk levels show a strong correlation with predicted adherence.
+• Higher non-adherence seen in age groups 40–60.
+• UNITSTOTAL and ANNUALCLAIMAMOUNT are major predictors.
+• Model can distinguish adherence behavior with ~89% AUC.
+• Risk levels show a strong correlation with predicted adherence.
 
 
 
